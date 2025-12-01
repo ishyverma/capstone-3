@@ -27,8 +27,8 @@ export default async function HomePage() {
             <Button asChild size="lg" className="bg-white text-black hover:bg-gray-200">
               <Link href="/products">Shop Now</Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black">
-              <Link href="/signup">Join Us</Link>
+            <Button asChild size="lg" className="bg-white text-black hover:bg-gray-200">
+              <Link href="/products">Join Us</Link>
             </Button>
           </div>
         </div>
